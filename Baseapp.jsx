@@ -1,4 +1,4 @@
- in react  JSX means part consist from div to end
+ in react  JSX attribute means part consist from div to end
 
  <div>
         <a href="https://vite.dev" target="_blank">
