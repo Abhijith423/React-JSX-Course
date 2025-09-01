@@ -1,7 +1,7 @@
-Onclick Event
-OnDoubleClick event
-OnKeyDown event             //point to note:  (These events are written in camel case letters)
-OnChange event
+onclick Event
+onDoubleClick event
+onKeyDown event             //point to note:  (These events are written in camel case letters)
+onChange event
 onMouseOver event
 
 
